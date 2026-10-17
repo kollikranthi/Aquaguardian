@@ -249,7 +249,7 @@ Switch      EINT0        countdown
 
 The supplied circuit diagram is included in the repository and should be kept with the project documentation.
 
-![AquaGuardian circuit diagram](images/Circuit_diagram.png)
+![AquaGuardian circuit diagram](images/circuit_diagram.png)
 
 **Figure 1 — Supplied AquaGuardian circuit / Proteus reference diagram.**
 
